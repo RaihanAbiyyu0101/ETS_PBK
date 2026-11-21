@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1, "kode": "TRX-001", "tanggal": "2026-11-18",
+    "pelangganId": 3, "namaPelanggan": "Budi Santoso", "kasirId": 2,
+    "items": [{ "produkId": 2, "nama": "Cuci Setrika", "harga": 8000, "qty": 4 }],
+    "total": 32000, "statusPembayaran": "Lunas", "statusPesanan": "Diambil"
+  },
+  {
+    "id": 2, "kode": "TRX-002", "tanggal": "2026-11-20",
+    "pelangganId": 4, "namaPelanggan": "Citra Lestari", "kasirId": 2,
+    "items": [
+      { "produkId": 1, "nama": "Cuci Kering Lipat", "harga": 6000, "qty": 3 },
+      { "produkId": 4, "nama": "Bed Cover", "harga": 25000, "qty": 1 }
+    ],
+    "total": 43000, "statusPembayaran": "Belum Lunas", "statusPesanan": "Diproses"
+  }
+]

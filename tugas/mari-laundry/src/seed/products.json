@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nama": "Cuci Kering Lipat", "satuan": "kg", "harga": 6000 },
+  { "id": 2, "nama": "Cuci Setrika", "satuan": "kg", "harga": 8000 },
+  { "id": 3, "nama": "Setrika Saja", "satuan": "kg", "harga": 5000 },
+  { "id": 4, "nama": "Bed Cover", "satuan": "pcs", "harga": 25000 }
+]

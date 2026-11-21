@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nama": "Bu Sari", "username": "pemilik", "password": "pemilik123", "role": "pemilik" },
+  { "id": 2, "nama": "Andi Kasir", "username": "kasir", "password": "kasir123", "role": "kasir" },
+  { "id": 3, "nama": "Budi Santoso", "username": "pelanggan", "password": "pelanggan123", "role": "pelanggan" },
+  { "id": 4, "nama": "Citra Lestari", "username": "citra", "password": "citra123", "role": "pelanggan" }
+]
